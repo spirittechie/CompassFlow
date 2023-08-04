@@ -1,5 +1,7 @@
 CompassFlow: A Novel Approach to Web Browsing
 
+V0,1
+
 **Introduction**
 
 CompassFlow reimagines web browsing, drawing inspiration from the UI and interface concepts of Obsidian and Visual Studio Code. It offers a revolutionary browsing experience through a unique integration of spatial navigation, using mind maps to explore and visualize the vast information network of the Internet.
