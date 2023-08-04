@@ -1,6 +1,6 @@
 CompassFlow: A Novel Approach to Web Browsing
 
-V0,1
+V 0.1
 
 **Introduction**
 
